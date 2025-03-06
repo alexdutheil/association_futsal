@@ -84,7 +84,7 @@ with col1:
     st.write("")
     st.title(":rainbow[Association Futsal Inas Club]")
 with col2:
-    st.image("images/logo_association.png", width=100)
+    st.image("logo_association.png", width=100)
 
 tab1, tab2 = st.tabs(["Générateur d'équipes", "Mise à jour des adhérents"])
 
